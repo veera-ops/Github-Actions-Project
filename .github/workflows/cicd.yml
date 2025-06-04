@@ -1,4 +1,4 @@
-name: demo-cicd
+name: build-sonar-test-cd
 
 on:
   push:
